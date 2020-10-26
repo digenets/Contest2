@@ -105,7 +105,7 @@ int main()
 	}
 	printf("End life step %d", i);
 
-
+	printf("xuy2");
 
 	printf("xuy");
 	//for (int c = 0; c < 1000; c++)
