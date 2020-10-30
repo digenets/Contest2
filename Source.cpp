@@ -15,15 +15,15 @@ int main()
 	int N = 0, M = 0;
 	int arr1[SIZE][SIZE] = { 0 }, arr2[SIZE][SIZE] = { 0 };
 	scanf("%d%d", &N, &M);
-	// ввод массива
+	// пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	for (int n = 0; n < N; n++)
 	{
 		for (int m = 0; m < M; m++)
 		{
-			scanf("%d", &arr1[n][m]); // Массив введён
+			scanf("%d", &arr1[n][m]); // пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 		}
 	}
-	// приравнивание массивов
+	// пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	for (int n = 0; n < N; n++)
 	{
 		for (int m = 0; m < M; m++)
@@ -105,9 +105,6 @@ int main()
 	}
 	printf("End life step %d", i);
 
-	printf("xuy2");
-
-	printf("xuy");
 	//for (int c = 0; c < 1000; c++)
 	//{
 	//	/*for (int j = 2; j < M - 1; j++)
